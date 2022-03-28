@@ -2,7 +2,9 @@ import sys
 
 
 n = int(sys.stdin.readline())
-
+if n == 1:
+    print('()')
+    exit()
 if n %2 == 0:
     x = '('*n
     y = ')' *n
