@@ -1,0 +1,1 @@
+some programs i made mostly in python for contests/for fun
