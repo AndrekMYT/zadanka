@@ -5,4 +5,6 @@ while True:
     elif a == 'g':
         print('GOTOWY')
     elif a == 's':
-        print('STATYSTYKi')
+        print('STATYSTYKI')
+    else:
+        print('BLAD')
